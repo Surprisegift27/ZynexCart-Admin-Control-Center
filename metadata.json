@@ -1,0 +1,6 @@
+{
+  "name": "ZynexCart Admin Panel - Quick-Commerce Control Center",
+  "description": "Professional 10-minute Quick-Commerce Operations Control Center: Live orders pipeline, dark stores, dynamic inventory, smart rider dispatch, and automated fulfillment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
